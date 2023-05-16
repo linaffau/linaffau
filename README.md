@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  HEY THERE
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+</h1>
 
-<!--
-**linaffau/linaffau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="350"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="bages" align="center">
+  <img src="https://komarev.com/ghpvc/?username=linaffau&style=flat-square&color=blue" alt=""/ width="130">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
