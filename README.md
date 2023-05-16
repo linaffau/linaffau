@@ -32,4 +32,5 @@ ___
   <img src="https://github.com/scipy/scipy/blob/main/doc/source/_static/logo.svg" title="Scipy" alt="Scipy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/bipin-nag/svg-icons/blob/master/airflow.svg" title="Aiflow" alt="Airflow" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ClickHouse/clickhouse-js/blob/main/.static/logo.png" title="Clickhouse" alt="Clickhouse" width="40" height="40"/>&nbsp;
 </div>
