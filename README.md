@@ -14,7 +14,7 @@
 ### :tipping_hand_woman: About me:
 #### I am an ML engineer
 - :globe_with_meridians: excited to explore machine learning
-- :books: constantly learning and improving my skills
+- :bar_chart: keen on working with numbers and enhancing my skills
 - :star: always open to new opportunities
 
 ___
