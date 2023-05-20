@@ -12,7 +12,7 @@
 </div>
 
 ### :tipping_hand_woman: About me:
-#### I am a Data Scientist
+#### I am a data scientist
 - :globe_with_meridians: excited to explore machine learning
 - :bar_chart: keen on working with numbers and enhancing my skills
 - :star: always open to new opportunities
